@@ -4,9 +4,9 @@
 
 | 檔名 | 原始 | 對抗 |
 |:---:|:---:|:---:|
-| cat1 | ![image](cat1.png) | <img src="/tsai7053/6-adversarial-machine-learning-chtsai/raw/master/cat1_adv.png" width="224"> |
-| cat2 | ![image](cat2.png) | <img src="/tsai7053/6-adversarial-machine-learning-chtsai/raw/master/cat2_adv.png" width="224"> |
-| dog1 | ![image](dog1.png) | <img src="/tsai7053/6-adversarial-machine-learning-chtsai/raw/master/dog1_adv.png" width="224"> |
+| cat1 | ![image](cat1.png) | <img src="cat1_adv.png" width="224"> |
+| cat2 | ![image](cat2.png) | <img src="cat2_adv.png" width="224"> |
+| dog1 | ![image](dog1.png) | <img src="dog1_adv.png" width="224"> |
 
 
 
